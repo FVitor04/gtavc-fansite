@@ -1,0 +1,104 @@
+body{
+    background-image: url(../img/Background.jpg);
+    background-attachment: fixed;
+    background-size: 156%;
+}
+.menu{
+    padding: 30px;
+    color: #e8e8e8;
+    font-weight: bolder;
+    font-size: 80px;
+    flex-wrap: wrap-reverse;
+    font-family:'Pricedown Bl' ;
+    color: rgb(216, 147, 170);
+    display: flex;
+    justify-content: right;
+    gap: 50px;
+}
+.Site img{
+    max-width: 800px;
+    
+    
+}
+.titulo{
+    font-family:'Rage Italic' ;
+    color: hotpink;
+    font-size: 100px;
+}
+.backdown{
+    background: url(../img/backgroundown.png);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.cartao{
+ display: flex;
+ justify-content: center;
+ gap: 20px;
+ 
+ }
+.informacoes h2{
+  font-family:'Pricedown Bl';
+  font-size: 100px;
+  color: rgb(216, 147, 170);
+}
+.informacoes p{
+    font-family:'Rage Italic' ;
+    font-size: 80px;
+    color: hotpink;
+    
+}
+.Plataformas{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    }
+    
+    .play2{
+        width: 200px; 
+    }
+    .xbox{
+        width: 300px;
+    }
+    .pcrom{
+         width: 110px;
+    }
+    .steam{
+        width: 110px;
+    }
+   .android{
+      width: 200px;
+   }
+   .iphone{
+    width: 200px;
+   }
+   
+   .screenshots p{
+    font-family: 'Arial Black';
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+    color: #e8e8e8;
+    justify-content: center;
+   }
+   .imgs{
+    display: grid;
+    justify-content: center;
+   }
+   .audio{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+   }
+   h4{
+    font-family: 'Arial Black';
+    font-size: larger;
+    color: #e8e8e8;
+    display: flex;
+    justify-content: center;
+   }
+   
+    
+    
+    
+    

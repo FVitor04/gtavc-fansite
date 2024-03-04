@@ -1,0 +1,18 @@
+@font-face{
+    font-family: 'ChaletComprime';
+    src: url("../fontes/ChaletComprime.ttf");}
+ @font-face{ 
+    font-family: 'Pricedown Bl';
+    src: url("../fonts/pricedown\ bl.ttf");
+    }
+    @font-face{
+        font-family: 'Arial Black';
+        src: url("../fonts/ariblk.ttf");
+    
+      }
+      @font-face {
+        font-family:'Rage Italic';
+        src: url(../fonts/RAGE_1.TTF);
+      }
+
+

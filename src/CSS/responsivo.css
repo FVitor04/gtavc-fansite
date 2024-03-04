@@ -1,0 +1,22 @@
+@media(max-width: 420px){
+    body{
+        background-size: 2000px;
+    }
+    .menu{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media(max-width: 1611px){
+    body{
+        background-size: 3000px;
+    }
+}
+@media(max-width: 1611px){
+    .backdown{
+        background-attachment: fixed;
+        background-size: 200%;
+    }
+}
+
+    
